@@ -1,0 +1,7 @@
+-lib heaps
+-main Main
+#-js hello.js
+-lib hlsdl
+-hl heapsman.hl
+-debug
+-D windowSize=672x864
